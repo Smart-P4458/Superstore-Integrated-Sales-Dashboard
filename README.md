@@ -86,10 +86,10 @@ An interactive Excel-based business intelligence dashboard built using data from
 
 ## 👨‍💻 Author
 
-**Sani Pam**  
+**Pam Sani George**  
 Data Analyst | Excel | Power BI | SQL  
-[LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-Email: your@email.com  
+[LinkedIn Profile](https://www.linkedin.com/in/pamsani/)  
+Email: sanismartp1@gmail.com  
 
 ---
 
